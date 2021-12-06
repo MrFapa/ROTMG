@@ -16,4 +16,4 @@ MonoBehaviour:
   range: 20
   firerate: 5
   speed: 5
-  bullet: {fileID: 5833149459992981136, guid: e5f39d791f9444b46812a3069b1017f1, type: 3}
+  bullet: {fileID: 1490701899388172499, guid: f36d9bcd3fdf13a4aaf70a4089311976, type: 3}
